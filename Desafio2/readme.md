@@ -1,21 +1,21 @@
 I. Cite as principais tags HTML e para que servem respectivamente. Dê exemplos de
 situações reais de onde são usadas;
 
-<body> corpo da pagina onde sera inserido o que é visível para cliente no navegador.
+< body > corpo da pagina onde sera inserido o que é visível para cliente no navegador.
 
-<header> introdução dentro da pagina onde colocar título / logotipo etc
+< header > introdução dentro da pagina onde colocar título / logotipo etc
 
-<nav> definir conjunto de links (agrupar).
-<div> utilização genérica pra agrupar outros elementos
+< nav > definir conjunto de links (agrupar).
+< div > utilização genérica pra agrupar outros elementos
 
-<main> utilizado para o documento principal da pagina atual 
+< main > utilizado para o documento principal da pagina atual 
 
-<section> ajuda a estruturar a pagina (importante para TL)
+< section > ajuda a estruturar a pagina (importante para TL)
 
-<article> assunto independente dentro do documento 
-<aside> complementar o assunto principal do documento. 
+< article > assunto independente dentro do documento 
+< aside > complementar o assunto principal do documento. 
 
-<footer> rodapé, direitos autorais etc.
+< footer > rodapé, direitos autorais etc.
 
 II. Explique com suas palavras a importância do HTML Semântico;
 
