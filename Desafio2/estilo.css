@@ -1,0 +1,29 @@
+/* Estilo do contêiner principal (tabuleiro) */
+.tabuleiro {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 colunas */
+    grid-template-rows: repeat(4, 1fr);   /* 4 linhas */
+    gap: 5px; /* Espaço entre as células */
+    width: 500px; /* Tamanho do tabuleiro */
+    height: 600px;
+    margin: 0 auto; /* Centralizar na página */
+  }
+  
+  /* Estilo das células */
+  .celula {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #e41414;
+    background-color: #f0f0f0;
+    font-size: 16px;
+  }
+  
+  /* Estilo especial para o título */
+  .titulo {
+    background-color: #000000;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    grid-column: span 4; /* Ocupar todas as colunas da linha superior */
+  }
