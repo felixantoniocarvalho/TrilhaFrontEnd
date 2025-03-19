@@ -25,4 +25,4 @@ IV. O que é acessibilidade em páginas web?
 
 Boa pratica para tornar o conteúdo acessível para todos usuários para ajudar na interação com a pagina e sua compreenção. 
 
-Utilizar estrutura semântica, adicionar texto nas imagens, navegação por teclado, legendas e transcrições em mídias.
+Utilizar estrutura semântica, adicionar texto nas imagens, navegação por teclado, legendas e transcrições em mídias
